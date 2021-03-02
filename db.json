@@ -1,8 +1,8 @@
 {
   "results": [
     {
-      "class_cd": "III",
-      "room_class": "III B",
+      "class_cd": "II",
+      "room_class": "II A",
       "bed_available": 6
     },
     {
@@ -11,8 +11,33 @@
       "bed_available": 6
     },
     {
+      "class_cd": "I",
+      "room_class": "I",
+      "bed_available": 6
+    },
+    {
+      "class_cd": "I",
+      "room_class": "I C",
+      "bed_available": 6
+    },
+    {
+      "class_cd": "II",
+      "room_class": "II A",
+      "bed_available": 6
+    },
+    {
       "class_cd": "III",
-      "room_class": "III B",
+      "room_class": "III",
+      "bed_available": 6
+    },
+    {
+      "class_cd": "I",
+      "room_class": "I B",
+      "bed_available": 6
+    },
+    {
+      "class_cd": "I",
+      "room_class": "I C",
       "bed_available": 6
     }
   ]
