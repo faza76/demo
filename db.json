@@ -1,17 +1,20 @@
 {
-  "hos_cd":"333333",
-  "results": [{
-          "class_cd": "III",
-          "room_class": "III B",
-          "bed_available": 6
-        },{
-          "class_cd": "III",
-          "room_class": "III B",
-          "bed_available": 6
-        },{
-          "class_cd": "III",
-          "room_class": "III B",
-          "bed_available": 6
+  "hos_cd": "333333",
+  "results": [
+    {
+      "class_cd": "III",
+      "room_class": "III B",
+      "bed_available": 6
+    },
+    {
+      "class_cd": "III",
+      "room_class": "III B",
+      "bed_available": 6
+    },
+    {
+      "class_cd": "III",
+      "room_class": "III B",
+      "bed_available": 6
     }
   ]
 }
