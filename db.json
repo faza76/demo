@@ -1,23 +1,52 @@
-{ 
+{
   "Results": [
-  {
-    "Text": "Intensive Care",
-    "Value": "MKGICU"
-  },
-  {
-    "Text": "Kamboja",
-    "Value": "MKGK01"
-  },
-  {
-    "Text": "Kemuning",
-    "Value": "MKGK02"
-  },
-  {
-    "Text": "Kenanga",
-    "Value": "MKGK03"
-  },
-  {
-    "Text": "Melati",
-    "Value": "MKGM02"
-  }]
+    {
+      "Text": "Intensive Care",
+      "Value": "MKGICU"
+    },
+    {
+      "Text": "Kamboja",
+      "Value": "MKGK01"
+    },
+    {
+      "Text": "Kemuning",
+      "Value": "MKGK02"
+    },
+    {
+      "Text": "Kenanga",
+      "Value": "MKGK03"
+    },
+    {
+      "Text": "Melati",
+      "Value": "MKGM02",
+      "Room": [
+        {
+          "Text": "Room 0004",
+          "Value": "M204",
+          "Room_rate": {
+            "class_cd": "III",
+            "room_class": "III B"
+          },
+          "Data_bed": [
+            {
+              "Text": "1",
+              "Value": "MKGK106001"
+            },
+            {
+              "Text": "2",
+              "Value": "MKGK106002"
+            }
+          ]
+        },
+        {
+          "Text": "Room 0005",
+          "Value": "M205"
+        },
+        {
+          "Text": "Room 0006",
+          "Value": "M206"
+        }
+      ]
+    }
+  ]
 }
