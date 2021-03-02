@@ -1,6 +1,3 @@
-
-[DataWard]
-
 [
     {
         "Text": "Intensive Care",
@@ -20,162 +17,32 @@
     },
     {
         "Text": "Melati",
-        "Value": "MKGM02"
-    }
-]
-
-
-[DataRoom]
-[
-    {
-        "ErrorList": null,
-        "hos_cd": null,
-        "room_cd": null,
-        "room_nm": null,
-        "sort_no": null,
-        "ptnt_sex": null,
-        "Text": "Room 0004",
-        "Value": "M204",
-        "LogMsg": null,
-        "Status": null,
-        "sp_status": null,
-        "SpStatus": {
-            "SqlState": null,
-            "Status": "",
-            "Process": null,
-            "SubProcess": null,
-            "MessageCode": null,
-            "PlaceHolder": null,
-            "IsError": false,
-            "MessageForLog": "   "
+        "Value": "MKGM02",
+        "Room": [{
+            "Text": "Room 0004",
+            "Value": "M204",
+            "Room_rate":{
+                "class_cd": "III",
+                "room_class": "III B"
+            },
+            "Data_bed":[
+            {
+                "Text": "1",
+                "Value": "MKGK106001"
+            },
+            {
+                "Text": "2",
+                "Value": "MKGK106002"
+            }
+        ]
         },
-        "ModeSave": null,
-        "ModeApp": null,
-        "MessageDetailAfterAction": null,
-        "MessageTitleAfterAction": null
-    },
-    {
-        "ErrorList": null,
-        "hos_cd": null,
-        "room_cd": null,
-        "room_nm": null,
-        "sort_no": null,
-        "ptnt_sex": null,
-        "Text": "Room 0005",
-        "Value": "M205",
-        "LogMsg": null,
-        "Status": null,
-        "sp_status": null,
-        "SpStatus": {
-            "SqlState": null,
-            "Status": "",
-            "Process": null,
-            "SubProcess": null,
-            "MessageCode": null,
-            "PlaceHolder": null,
-            "IsError": false,
-            "MessageForLog": "   "
+        {
+             "Text": "Room 0005",
+             "Value": "M205"
         },
-        "ModeSave": null,
-        "ModeApp": null,
-        "MessageDetailAfterAction": null,
-        "MessageTitleAfterAction": null
-    },
-    {
-        "ErrorList": null,
-        "hos_cd": null,
-        "room_cd": null,
-        "room_nm": null,
-        "sort_no": null,
-        "ptnt_sex": null,
-        "Text": "Room 0006",
-        "Value": "M206",
-        "LogMsg": null,
-        "Status": null,
-        "sp_status": null,
-        "SpStatus": {
-            "SqlState": null,
-            "Status": "",
-            "Process": null,
-            "SubProcess": null,
-            "MessageCode": null,
-            "PlaceHolder": null,
-            "IsError": false,
-            "MessageForLog": "   "
-        },
-        "ModeSave": null,
-        "ModeApp": null,
-        "MessageDetailAfterAction": null,
-        "MessageTitleAfterAction": null
-    },
-    {
-        "ErrorList": null,
-        "hos_cd": null,
-        "room_cd": null,
-        "room_nm": null,
-        "sort_no": null,
-        "ptnt_sex": null,
-        "Text": "Room 0007",
-        "Value": "M207",
-        "LogMsg": null,
-        "Status": null,
-        "sp_status": null,
-        "SpStatus": {
-            "SqlState": null,
-            "Status": "",
-            "Process": null,
-            "SubProcess": null,
-            "MessageCode": null,
-            "PlaceHolder": null,
-            "IsError": false,
-            "MessageForLog": "   "
-        },
-        "ModeSave": null,
-        "ModeApp": null,
-        "MessageDetailAfterAction": null,
-        "MessageTitleAfterAction": null
-    }
-]
-
-[GetRoomRate]
-
-[
-    {
-        "ErrorList": null,
-        "class_cd": "III",
-        "sub_class_cd": "IIIB",
-        "cito_var": "25,00",
-        "room_rate": 375000.00,
-        "deposit_req": 3750000.00,
-        "room_class": "III B",
-        "LogMsg": null,
-        "Status": null,
-        "sp_status": null,
-        "SpStatus": {
-            "SqlState": null,
-            "Status": "",
-            "Process": null,
-            "SubProcess": null,
-            "MessageCode": null,
-            "PlaceHolder": null,
-            "IsError": false,
-            "MessageForLog": "   "
-        },
-        "ModeSave": null,
-        "ModeApp": null,
-        "MessageDetailAfterAction": null,
-        "MessageTitleAfterAction": null
-    }
-]
-
-[DataBed]
-[
-    {
-        "Text": "1",
-        "Value": "MKGK106001"
-    },
-    {
-        "Text": "2",
-        "Value": "MKGK106002"
+             "Text": "Room 0006",
+             "Value": "M206"
+                 
+        ]
     }
 ]
