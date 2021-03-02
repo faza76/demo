@@ -1,20 +1,17 @@
 {
   "hos_cd":"333333",
   "results": [{
-    "Room":{
           "class_cd": "III",
           "room_class": "III B",
           "bed_available": 6
-        },
-        "Room":{
+        },{
           "class_cd": "III",
           "room_class": "III B",
           "bed_available": 6
-        },
-        "Room":{
+        },{
           "class_cd": "III",
           "room_class": "III B",
           "bed_available": 6
-    }}
+    }
   ]
 }
