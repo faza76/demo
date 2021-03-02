@@ -3,42 +3,42 @@
     {
       "class_cd": "II",
       "room_class": "II A",
-      "bed_available": 6
+      "bed_available": 10
     },
     {
       "class_cd": "III",
       "room_class": "III B",
-      "bed_available": 6
+      "bed_available": 2
     },
     {
       "class_cd": "I",
       "room_class": "I",
-      "bed_available": 6
+      "bed_available": 9
     },
     {
       "class_cd": "I",
       "room_class": "I C",
-      "bed_available": 6
+      "bed_available": 3
     },
     {
       "class_cd": "II",
       "room_class": "II A",
-      "bed_available": 6
+      "bed_available": 3
     },
     {
       "class_cd": "III",
       "room_class": "III",
-      "bed_available": 6
+      "bed_available": 1
     },
     {
       "class_cd": "I",
       "room_class": "I B",
-      "bed_available": 6
+      "bed_available": 4
     },
     {
       "class_cd": "I",
       "room_class": "I C",
-      "bed_available": 6
+      "bed_available": 12
     }
   ]
 }
