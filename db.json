@@ -1,6 +1,6 @@
 {
   "hos_cd":"333333",
-  "results": [
+  "results": [{
     "Room":{
           "class_cd": "III",
           "room_class": "III B",
@@ -15,6 +15,6 @@
           "class_cd": "III",
           "room_class": "III B",
           "bed_available": 6
-    }
+    }}
   ]
 }
